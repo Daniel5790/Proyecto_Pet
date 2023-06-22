@@ -31,4 +31,4 @@ CLAVE: Da123456
 La Pagina sufrio Cambios a comparacion de la Primera entrega por ejemplo en el navbar, ya que tenia problemas con la resposividad y el logo igualmente fue cambiado.
 
 --------------------------------------------------------------------
-Link a Repositorio en Github:
+Link a Repositorio en Github: https://github.com/Daniel5790/Proyecto_Pet
